@@ -1,0 +1,25 @@
+comparison_scope,model,district,first_valid_date,last_valid_date,n,mae_mm,rmse_mm,bias_mm
+All dates available for that model,AIFS (provisional),All Coastal Karnataka districts,2025-02-18,2026-08-31,1665,6.855,14.300,-2.557
+All dates available for that model,AIFS (provisional),Dakshina Kannada,2025-02-18,2026-08-31,555,7.892,16.190,-2.598
+All dates available for that model,AIFS (provisional),Udupi,2025-02-18,2026-08-31,555,7.347,15.008,-1.897
+All dates available for that model,AIFS (provisional),Uttara Kannada,2025-02-18,2026-08-31,555,5.325,11.229,-3.175
+All dates available for that model,GFS,All Coastal Karnataka districts,2025-02-01,2026-08-31,1716,8.402,17.866,-4.699
+All dates available for that model,GFS,Dakshina Kannada,2025-02-01,2026-08-31,572,8.355,18.201,-3.644
+All dates available for that model,GFS,Udupi,2025-02-01,2026-08-31,572,8.235,17.748,-2.851
+All dates available for that model,GFS,Uttara Kannada,2025-02-01,2026-08-31,572,8.615,17.644,-7.602
+All dates available for that model,IFS HRES,All Coastal Karnataka districts,2025-10-01,2026-08-31,999,6.151,12.770,-1.693
+All dates available for that model,IFS HRES,Dakshina Kannada,2025-10-01,2026-08-31,333,6.921,13.663,-2.147
+All dates available for that model,IFS HRES,Udupi,2025-10-01,2026-08-31,333,6.884,14.240,-0.445
+All dates available for that model,IFS HRES,Uttara Kannada,2025-10-01,2026-08-31,333,4.648,9.988,-2.487
+Shared dates: GFS + IFS HRES + AIFS,AIFS (provisional),All Coastal Karnataka districts,2025-10-01,2026-08-31,999,4.846,10.386,-1.274
+Shared dates: GFS + IFS HRES + AIFS,AIFS (provisional),Dakshina Kannada,2025-10-01,2026-08-31,333,5.620,11.343,-1.357
+Shared dates: GFS + IFS HRES + AIFS,AIFS (provisional),Udupi,2025-10-01,2026-08-31,333,5.346,11.272,-0.401
+Shared dates: GFS + IFS HRES + AIFS,AIFS (provisional),Uttara Kannada,2025-10-01,2026-08-31,333,3.573,8.238,-2.063
+Shared dates: GFS + IFS HRES + AIFS,GFS,All Coastal Karnataka districts,2025-10-01,2026-08-31,999,6.455,14.833,-3.672
+Shared dates: GFS + IFS HRES + AIFS,GFS,Dakshina Kannada,2025-10-01,2026-08-31,333,6.995,15.805,-3.431
+Shared dates: GFS + IFS HRES + AIFS,GFS,Udupi,2025-10-01,2026-08-31,333,6.444,15.675,-2.308
+Shared dates: GFS + IFS HRES + AIFS,GFS,Uttara Kannada,2025-10-01,2026-08-31,333,5.926,12.828,-5.278
+Shared dates: GFS + IFS HRES + AIFS,IFS HRES,All Coastal Karnataka districts,2025-10-01,2026-08-31,999,6.151,12.770,-1.693
+Shared dates: GFS + IFS HRES + AIFS,IFS HRES,Dakshina Kannada,2025-10-01,2026-08-31,333,6.921,13.663,-2.147
+Shared dates: GFS + IFS HRES + AIFS,IFS HRES,Udupi,2025-10-01,2026-08-31,333,6.884,14.240,-0.445
+Shared dates: GFS + IFS HRES + AIFS,IFS HRES,Uttara Kannada,2025-10-01,2026-08-31,333,4.648,9.988,-2.487

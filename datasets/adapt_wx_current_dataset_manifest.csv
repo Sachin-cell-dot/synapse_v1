@@ -1,0 +1,14 @@
+file_name,format,description
+karnataka_imd_daily.csv,CSV,Statewide IMD realised-rainfall observations; 31 districts.
+karnataka_imd_train.csv,CSV,Statewide IMD chronological training split.
+karnataka_imd_validation.csv,CSV,Statewide IMD chronological validation split.
+karnataka_imd_test.csv,CSV,Statewide IMD chronological test split.
+coastal_karnataka_imd_daily.csv,CSV,IMD observations for the Coastal Karnataka MVP.
+coastal_karnataka_master_24h.csv,CSV,"Coastal IMD observations joined with GFS, IFS HRES, and AIFS 24-hour rainfall forecasts."
+coastal_karnataka_train_common_three_models.csv,CSV,Coastal three-model training subset.
+coastal_karnataka_validation_common_three_models.csv,CSV,Coastal three-model validation subset.
+coastal_karnataka_test_common_three_models.csv,CSV,Coastal three-model untouched test subset.
+coastal_adapt_wx_validation_predictions.csv,CSV,ADAPT-WX validation predictions and dynamic model weights.
+coastal_adapt_wx_test_predictions.csv,CSV,ADAPT-WX final test predictions and dynamic model weights.
+coastal_karnataka_baseline_metrics.csv,CSV,Individual-model and baseline verification metrics.
+raw_imd_reports/*.xls,XLS,573 original IMD daily realised-rainfall reports supplied by the project team.

@@ -6,8 +6,7 @@ venv/
 frontend/node_modules/
 frontend/dist/
 
-# Local inputs, raw API payloads, and generated evaluation artifacts
-datasets/
+# Raw API payloads and generated evaluation artifacts
 outputs/
 inventory_audit.json
 imd_zip_audit.json
